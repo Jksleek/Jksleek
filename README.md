@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jksleek
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on various projects from my alx cohorts
+- 💞️ I’m back to take things seriously as
 - 📫 How to reach me on twitter @jksleek, on facebook @johnson kalu and reaching me via email is kalucjohnson@gmail.com
 
 <!---
